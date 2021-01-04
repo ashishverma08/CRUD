@@ -1,1 +1,1 @@
-# CRUD
+CRUD (Create , Read , Update , Delete) is the basic requirement of any application . In this I have created a CRUD application where anyone can create its email id password database for login signup for so that if new use comes it allowes to store the data in it and if any old user comes it authenticate it on the basis of stored data.it's created in nodejs using express framework and mongodb as database.
